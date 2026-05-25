@@ -1,2 +1,2 @@
 # database-internals
-database internals with c++
+Database internals with C++
